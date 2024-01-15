@@ -32,3 +32,10 @@
     left: 15px;
     bottom: 15px;
 }
+
+#nav__dot {
+    width: 10px;
+    height: 10px;
+    left: 25px;
+    bottom: 25px;
+}
